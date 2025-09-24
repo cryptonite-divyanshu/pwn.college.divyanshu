@@ -1,3 +1,4 @@
+# MODULE1_HELLO_HACKERS
 # 1. Intro to Commands
 The challenge prompted me to invoke my first command on the bash script, 
 The command `whoami` was introduced.
