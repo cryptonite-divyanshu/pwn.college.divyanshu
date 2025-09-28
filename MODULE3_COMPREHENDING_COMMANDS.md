@@ -31,7 +31,7 @@ The challenge focused on using cat with absolute paths to read files located any
 
 **Flag:** `pwn.college{scYVrfmJCbWhaYhVMpd1V8fvWtK.QX5ETO0wSNxAzNzEzW}`
 
-The problem required reading the flag file using its absolute path. Initially tried /flag, but the challenge indicated the file was hidden in /usr/include/video/flag.
+The problem required reading the flag file using its absolute path. 
 ```
 hacker@commands~catting-absolute-paths:~$ cat /flag
 pwn.college{scYVrfmJCbWhaYhVMpd1V8fvWtK.QX5ETO0wSNxAzNzEzW}
@@ -281,7 +281,7 @@ The challenge focused on using the find command to locate files based on their n
 
 **Flag:** `pwn.college{ovy7PHDOMp3U7aw77ZFMobifJNH.QXyMDO0wSNxAzNzEzW}`
 
-The problem required using find to search for files named "flag" throughout the entire filesystem, then accessing the correct one.
+The problem required using find to search for files named "flag", then accessing the correct one.
 ```
 hacker@commands~finding-files:~$ cd /
 hacker@commands~finding-files:/$ find -name flag
