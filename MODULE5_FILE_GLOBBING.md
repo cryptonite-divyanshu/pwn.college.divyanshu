@@ -33,7 +33,7 @@ The challenge introduced `?` to match single characters in directory names.
 **Flag:** `pwn.college{8OFph6gVe7pO84dLD5XD6GZqTyj.QXyIDO0wSNxAzNzEzW}`
 
 In the problem statement, it was provided that changing into `/challenge` using '?' to avoid characters 'c' and 'l' and then running the program would yield the flag.
-```
+
 ```
 hacker@globbing~matching-with-:~$ cd /?ha??enge
 hacker@globbing~matching-with-:/challenge$ /challenge/run
