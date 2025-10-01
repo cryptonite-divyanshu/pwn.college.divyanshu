@@ -214,7 +214,7 @@ Learned to merge stderr into stdout using `2>&1` before piping.
 
 The problem statement provided was used as the reference.
 
-# 9. FILTERING WITH GREP -V
+# 9. FILTERING WITH GREP -v
 
 The challenge introduced using `grep -v` to filter out unwanted lines.
 
