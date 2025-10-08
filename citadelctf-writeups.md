@@ -22,9 +22,11 @@ Deciphered the XOR encryption
 
 Found flag parts on below links 
 
+'''
 https://rateyourmusic.com/~citadweller
 https://www.last.fm/user/citadweller
 https://open.spotify.com/playlist/37eiwS3xaRXOsg4F5RmSsY
+'''
 
 ## 7. Echoes and Pings 
 
