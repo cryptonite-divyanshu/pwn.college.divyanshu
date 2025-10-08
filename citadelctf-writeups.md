@@ -33,7 +33,7 @@ Saw the pcap file data to find the image part and extracted it to get the pictur
 
 ## 8. The Ripper 
 
-Found it was bcrypt hash from $2a$ at the start. Used john --format=bcrypt hash.txt --wordlist=wordlist.txt to crack encryption.
+Found it was bcrypt hash from ``` $2a$```  at the start. Used john --format=bcrypt hash.txt --wordlist=wordlist.txt to crack encryption.
 
 ## 9. AetherCorp NetprobeX
 
